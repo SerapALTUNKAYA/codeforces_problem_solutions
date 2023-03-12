@@ -1,1 +1,1 @@
-this repository contains my codeforces solutions.
+This repository contains my codeforces solutions.
