@@ -4,13 +4,13 @@
  
 int main() 
 {
-	int weight;
-	scanf("%d", &weight);
+   int weight;
+   scanf("%d", &weight);
  
-	if (weight % 2 == 0 && weight != 2)	
-   		printf("YES"); 
-	else
- 		printf("NO");		
+   if (weight % 2 == 0 && weight != 2)	
+   	   printf("YES"); 
+   else
+	   printf("NO");		
 	
-	return 0;
+   return 0;
 }
