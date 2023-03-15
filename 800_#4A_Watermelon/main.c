@@ -8,9 +8,9 @@ int main()
    scanf("%d", &weight);
  
    if (weight % 2 == 0 && weight != 2)	
-    printf("YES"); 
+      printf("YES"); 
    else
-    printf("NO");		
+      printf("NO");		
 	
    return 0;
 }
