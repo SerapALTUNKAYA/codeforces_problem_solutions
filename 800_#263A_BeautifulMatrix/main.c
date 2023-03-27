@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <math.h>
  
-int main()
+int main(void)
 {
     int matris[5][5];
     int row, col; 
@@ -26,3 +26,4 @@ int main()
     printf("%d\n", counter);
  
     return 0;
+}
