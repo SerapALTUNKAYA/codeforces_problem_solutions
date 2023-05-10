@@ -13,7 +13,6 @@ int sub_result(int number, int size)
 		}
 	}
 	return number;
-
 }
 
 int main(void)
